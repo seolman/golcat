@@ -1,7 +1,5 @@
----
----
 # Lolcat Written in Go
-i don't know what i'm doing!
+lolcat written in Go
 
 ## Installation
 
